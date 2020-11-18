@@ -1,8 +1,8 @@
 {
-  "name": "book-club-json",
+  "name": "shower-thoughts-json",
   "version": "1.0.0",
-  "repository": "https://github.com/superhi/book-club-json.git",
-  "author": "Ryan <ryan@artcommaco.de>",
+  "repository": "https://github.com/superhi/shower-thoughts-json.git",
+  "author": "Isabel <hello@isabelklee.co>",
   "license": "MIT",
   "private": true,
   "dependencies": {
